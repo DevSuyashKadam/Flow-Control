@@ -12,6 +12,8 @@ public class For_each {
 		
 		System.out.println("The highest score is   "+highest_marks);
 	}
+		
+		
 	}
 	
 	public static int maximum(int[]numbers) {
